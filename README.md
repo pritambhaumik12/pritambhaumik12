@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=210&section=header&text=Pritam%20Bhaumik&fontSize=46&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20System%20Architecture&descAlignY=58&descAlign=50&animation=twinkling" width="100%"/>
+<!-- Main Greeting (Ankit-Style Elevated) -->
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" alt="Waving Hand">, I'm Pritam Bhaumik</h1>
+
+<p align="center">
+  <b>A passionate Full-Stack Engineer & Applied AI Researcher from India 🇮🇳</b>
+</p>
 
 <!-- Animated Typing Subtitle (Wide viewbox to prevent any text clipping) -->
 <a href="https://github.com/pritambhaumik12">
