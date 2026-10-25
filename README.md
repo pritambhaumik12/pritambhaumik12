@@ -1,37 +1,47 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=210&section=header&text=Pritam%20Bhaumik&fontSize=46&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20System%20Architecture&descAlignY=58&descAlign=50&animation=twinkling" width="100%"/>
+<!-- Main Greeting (Ankit-Style Elevated) -->
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" alt="Waving Hand">, I'm Pritam Bhaumik</h1>
 
-<!-- Animated Typing Subtitle -->
+<p align="center">
+  <b>A passionate Full-Stack Engineer & Applied AI Researcher from India 🇮🇳</b>
+</p>
+
+<!-- Animated Typing Subtitle (Wide viewbox to prevent any text clipping) -->
 <a href="https://github.com/pritambhaumik12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=650&lines=Full-Stack+Developer+(Java+%E2%80%A2+Python+%E2%80%A2+PHP+%E2%80%A2+Spring+Boot);Application+Developer+Intern+%40+Agnirath+Aerospace;AI+%26+ML+Researcher+%7C+IGI+Global+Published+Author;Presented+Innovation+to+Hon.+Prime+Minister+(NEP+2023);B.Tech+CSE+%40+Brainware+University+(SGPA+8.80)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=880&height=45&lines=Full-Stack+Engineer+(Java+%E2%80%A2+Python+%E2%80%A2+PHP+%E2%80%A2+Spring+Boot);Application+Developer+Intern+%40+Agnirath+Aerospace;AI+%26+ML+Researcher+%7C+IGI+Global+Published+Author;Presented+Innovation+to+Hon.+Prime+Minister+(NEP+2023);B.Tech+CSE+%40+Brainware+University+(SGPA+8.80)" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Status Badges -->
+<!-- Profile Views & Highlights -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pritambhaumik12&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=eye" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/GitHub-PRO-purple?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro"/>
-  <img src="https://img.shields.io/badge/Academic-SGPA%208.80-success?style=for-the-badge&logo=googlescholar&logoColor=white" alt="SGPA"/>
-</p>
-
-<!-- Social Connect Buttons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/pritambhaumik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://komarev.com/ghpvc/?username=pritambhaumik12">
+    <img src="https://komarev.com/ghpvc/?username=pritambhaumik12&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
   </a>
   &nbsp;
+  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-0969da?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-PRO-8957e5?style=flat-square&logo=github&logoColor=white" alt="GitHub Pro"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Academic-SGPA%208.80-2ea44f?style=flat-square&logo=googlescholar&logoColor=white" alt="SGPA"/>
+</p>
+
+<!-- Connect With Me -->
+<h4 align="center">🤝 Connect with me:</h4>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pritambhaumik" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://orcid.org/0009-0008-9673-3212" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:pritambhaumiksmail1203@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/pritambhaumik12">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -150,17 +160,6 @@ focus_areas:
     </tr>
   </table>
 </div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pritambhaumik12&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%"/>
-  </a>
-</div>
-
 ---
 
 ### 🚀 Featured Engineering & Research Projects
@@ -257,5 +256,6 @@ I am always interested in discussing software engineering challenges, AI researc
   </a>
 </p>
 
-<!-- Footer Curve -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=footer" width="100%"/>
+<p align="center">
+  <sub>⚡ Designed with passion by <b>Pritam Bhaumik</b> • Keep building, keep innovating.</sub>
+</p>
