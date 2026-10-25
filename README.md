@@ -1,4 +1,4 @@
-<div align="center">
+<div align 3D Live Contributions & Activity="center">
 
 <!-- Hero Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=210&section=header&text=Pritam%20Bhaumik&fontSize=46&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20System%20Architecture&descAlignY=58&descAlign=50&animation=twinkling" width="100%"/>
@@ -72,25 +72,6 @@ focus_areas:
 
 ---
 
-### ⚡ 3D Live Contributions & Activity
-
-<div align="center">
-  <!-- 3D Isometric Contribution Graph (Generated automatically via GitHub Actions) -->
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Pritam's 3D Isometric Contribution Graph" width="95%" onerror="this.src='https://github-readme-stats.vercel.app/api?username=pritambhaumik12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117'"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Contribution Snake Game Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pritambhaumik12/pritambhaumik12/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pritambhaumik12/pritambhaumik12/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/pritambhaumik12/pritambhaumik12/output/github-contribution-grid-snake-dark.svg" width="95%">
-  </picture>
-</div>
-
----
 
 ### 🛠️ Languages & Technical Arsenal
 
