@@ -185,7 +185,7 @@ focus_areas:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/pritambhaumik12/skillscreen_ai">Project Myrra & SkillScreen AI</a></h4>
+      <h4>🤖 <a href="https://github.com/pritambhaumik12/skillscreen_ai">SkillScreen AI</a></h4>
       <p>Intelligent resume evaluation and contextual AI candidate scoring engine.</p>
       <ul>
         <li>Applies semantic similarity search and NLP parsing to rank technical candidates against job specs.</li>
