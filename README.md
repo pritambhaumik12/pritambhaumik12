@@ -157,7 +157,7 @@ focus_areas:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏥 <a href="https://github.com/pritambhaumik12">Online Healthcare Management (Osa Care)</a></h4>
+      <h4>🏥 <a href="https://github.com/pritambhaumik12/health-care-management-system">Online Healthcare Management (Osa Care)</a></h4>
       <p>Enterprise medical records platform engineered with strict role-based access for clinics.</p>
       <ul>
         <li>Led 4-member team designing secure patient & doctor dashboards.</li>
